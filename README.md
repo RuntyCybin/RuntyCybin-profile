@@ -8,4 +8,6 @@
     <li> 📫 How to reach me: well you can write me an email to nico_dev@protonmail.com or search me in discord: cybin#8260</li>
     </ul>
   </body>
+  
+  
 </html>
